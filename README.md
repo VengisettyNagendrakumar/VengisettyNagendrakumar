@@ -1,27 +1,138 @@
-# 💫 About Me:
-<br>🔭 I'm currently working on production-grade AI/ML systems, LLM-based evaluation, and intelligent automation.<br><br>👯 I'm looking to collaborate on Generative AI, RAG, AI agents, NLP, and machine learning projects.<br><br>🤝 I'm looking for help with building scalable LLM applications, advanced retrieval systems, and production-ready AI architectures.<br><br>🌱 I'm currently learning advanced RAG techniques, agentic AI, MCP, and LLM inference optimization.<br><br>💬 Ask me about Python, Machine Learning, LLMs, RAG, LangChain, LangGraph, FastAPI, embeddings, and vector search.<br><br>⚡ Fun fact: I enjoy turning complex AI concepts into practical applications that solve real-world problems.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=Nagendrakumar%20Vengisetty&fontColor=ffffff&fontSize=48&fontAlignY=36&desc=AI%20%2F%20ML%20Developer&descAlignY=58&descSize=22&animation=fadeIn" width="100%"/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Building+Production-Grade+AI+Systems;LLM+Evaluation+%7C+RAG+%7C+NLP+%7C+Computer+Vision;Systems+Serving+100%2C000%2B+Users" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nagendra-kumar-vengisetty-253079253/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nagendravengisetti@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=VengisettyNagendrakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=VengisettyNagendrakumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=VengisettyNagendrakumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=VengisettyNagendrakumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=VengisettyNagendrakumar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagendra-kumar-vengisetty-253079253/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nagendravengisetti@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/nagendravengisetti"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Hyderabad-India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=VengisettyNagendrakumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+AI/ML Developer at **Altrodav Technologies**, building production AI for two products: **PlaceMux** (technical hiring) and **MeetMux** (social platform).
+
+I work on real-time proctoring, LLM-based evaluation, NLP extraction pipelines and recommendation engines. These systems are deployed to **100,000+ users**, so reliability and accuracy matter as much as the model.
+
+---
+
+## 📊 Impact at a Glance
+
+| 🎯 Result | 📌 System |
+|-----------|-----------|
+| **94.2%** domain accuracy (Cohen's Kappa 0.94) | Domain Level Prediction |
+| **93%** evaluation accuracy and reliability | AI Coding Evaluation |
+| **72% → 87%** extraction accuracy | JD Skill Extractor |
+| **95%** entity accuracy | Voice Onboarding Assistant |
+| **90%+** semantic match over 100K+ chat pairs | Chat Reply Recommender |
+| **40%** better onboarding efficiency | MeetMux Onboarding |
+
+---
+
+## 🚀 What I Build
+
+### 🔹 PlaceMux: AI / ML Systems
+
+**🛡️ Real-Time AI Proctoring**
+Multi-model pipeline for large-scale technical assessments: face recognition, object detection, voice activity and speaker detection. Fixed production issues (race conditions, silent crashes, missing queues) and moved inference from CPU to GPU for higher throughput.
+`InsightFace` `YOLOv8` `Silero VAD` `Resemblyzer` `FastAPI` `Celery` `Redis`
+
+**💻 AI Coding Evaluation**
+Combines static analysis with LLM scoring, weighted to favor runtime correctness (60/20/20). Celery workers are split by workload type.
+`Tree-sitter` `Semgrep` `Qwen 2.5 7B` `Celery`
+
+**🎤 AI Interview Evaluation Audit**
+Audited a multi-modal pipeline (speech, acoustic, NLP, LLM). Resolved 20+ issues across audio I/O, model loading and worker architecture, and identified vLLM as the production replacement for Ollama.
+`WhisperX` `OpenSMILE` `spaCy` `Librosa` `Wav2Vec2` `vLLM`
+
+**📄 JD Skill Extractor**
+Parses job descriptions into skills. Accuracy rose from 72% to 87% using ratio-based LLM triggering, a ~278 phrase blacklist and a 216-trigger implication graph.
+`GLiNER` `Aho-Corasick` `Qwen2.5:7b`
+
+**🧮 Domain Level Prediction**
+Predicts domain and difficulty of interview questions. Cleaned 524 duplicate entries and generated synthetic data for sparse difficulty bands.
+
+### 🔹 MeetMux: Social Platform
+
+**💬 Chat Reply Recommendation**
+Context-aware reply suggestions using transformer embeddings and vector search over 100K+ chat pairs. A 3-layer pipeline (personal history, friend context, global fallback) cut cold-start failures by 30%. Toxicity, spam and duplicate filtering reduced unsafe or repetitive replies by 25%.
+
+**🎙️ Voice Onboarding Assistant**
+Users fill their profile by talking. Intent matching and entity extraction map speech straight into form fields, removing manual entry and cutting onboarding drop-offs by 25%.
+`Amazon Nova Sonic` `BERT NER` `FastAPI`
+
+---
+
+## 💻 Tech Stack
+
+**AI / ML**
+
+![](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas)
+
+**Generative AI**
+
+![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-111827?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge) ![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge) ![vLLM](https://img.shields.io/badge/vLLM-111827?style=for-the-badge) ![Ollama](https://img.shields.io/badge/Ollama-111827?style=for-the-badge) ![Vector Search](https://img.shields.io/badge/Vector_Search-111827?style=for-the-badge)
+
+**Backend and Data**
+
+![](https://skillicons.dev/icons?i=fastapi,django,spring,redis,postgres,mysql)
+
+**Tools and Languages**
+
+![](https://skillicons.dev/icons?i=java,docker,git,github,react,html,css)
+
+---
+
+## 🧪 Other Projects
+
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| 🧬 **Breast Cancer Classification** | Final-year team project. Benign / malignant / normal classification at **98% accuracy** | DenseNet121, Transfer Learning |
+| 🛒 **E-Commerce App** | Full stack store, 100+ products, API latency down 15% | React, Django REST |
+| 🎬 **IMDB Clone** | Movie review platform with token auth, throttling, pagination | Django |
+| 👥 **Employee Management System** | CRUD app with live updates for 50+ records | React, Spring Boot |
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced RAG techniques
+- Agentic AI
+- MCP (Model Context Protocol)
+- LLM inference optimization
+
+---
+
+## 🎓 Education
+
+**B.Tech, CSE (AIML)**, Godavari Institute of Engineering and Technology (2020 – 2024), CGPA 8.42
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VengisettyNagendrakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VengisettyNagendrakumar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VengisettyNagendrakumar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VengisettyNagendrakumar&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=VengisettyNagendrakumar&style=for-the-badge&color=0e75b6" />
+</p>
+
+<p align="center"><i>Building AI that works in production.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB" width="100%"/>
