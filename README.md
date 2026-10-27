@@ -15,9 +15,17 @@
 
 ## 👋 About Me
 
-AI/ML Developer at **Altrodav Technologies**, building production AI for two products: **PlaceMux** (technical hiring) and **MeetMux** (social platform).
+I'm an AI/ML Developer who builds **production-grade AI systems** end to end: from data and model design to APIs, queues and deployment.
 
-I work on real-time proctoring, LLM-based evaluation, NLP extraction pipelines and recommendation engines. These systems are deployed to **100,000+ users**, so reliability and accuracy matter as much as the model.
+**What I work on**
+- 🤖 **LLM applications:** evaluation pipelines, RAG, prompt design, LLM-as-a-judge scoring
+- 👁️ **Computer vision:** real-time face recognition, object detection and monitoring
+- 🎙️ **Speech and audio AI:** voice activity detection, speaker detection, speech-to-text, acoustic analysis
+- 📝 **NLP:** entity extraction, semantic search, text classification, toxicity and spam filtering
+- 🔎 **Recommendation and retrieval:** transformer embeddings and vector search over large datasets
+- ⚙️ **Production AI:** async pipelines, GPU inference, debugging and hardening systems that serve **100,000+ users**
+
+I care about the unglamorous parts too: accuracy tuning, clean datasets, failure handling and scalability. A model only counts once it works reliably in production.
 
 ---
 
@@ -101,10 +109,13 @@ Users fill their profile by talking. Intent matching and entity extraction map s
 
 ## 🌱 Currently Learning
 
-- Advanced RAG techniques
-- Agentic AI
-- MCP (Model Context Protocol)
-- LLM inference optimization
+- 🎨 **Diffusion models:** DDPM, latent diffusion, Stable Diffusion internals
+- 🧬 **LLM fine-tuning:** LoRA, QLoRA and parameter-efficient methods
+- ⚖️ **Alignment:** RLHF, DPO and preference optimization
+- 👁️‍🗨️ **Multimodal models:** vision-language models and cross-modal learning
+- 🧩 **Mixture of Experts** and **state space models** (Mamba)
+- ⚡ **LLM inference optimization:** quantization, KV cache, speculative decoding
+- 🕸️ **Agentic AI:** multi-agent systems, LangGraph and MCP
 
 ---
 
