@@ -125,20 +125,23 @@ Users fill their profile by talking. Intent matching and entity extraction map s
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let's Connect
+
+Happy to talk about:
+
+- 🧠 Building and evaluating LLM systems
+- 👁️ Computer vision and speech AI in production
+- 🔎 Retrieval, embeddings and recommendation systems
+- 🚀 Taking AI models from notebook to scalable service
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VengisettyNagendrakumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VengisettyNagendrakumar&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/nagendra-kumar-vengisetty-253079253/"><img src="https://img.shields.io/badge/Message_me_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:nagendravengisetti@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VengisettyNagendrakumar&theme=tokyonight&hide_border=true" />
-</p>
+<p align="center"><i>"A model only counts once it works reliably in production."</i></p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=VengisettyNagendrakumar&theme=tokyo-night&hide_border=true" />
-</p>
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VengisettyNagendrakumar&style=for-the-badge&color=0e75b6" />
